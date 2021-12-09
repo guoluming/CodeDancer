@@ -88,3 +88,5 @@ x64/
 *.vcxproj.vspscc
 
 core
+
+main
