@@ -102,6 +102,6 @@ int main()
     vector<int> ret = Solution().twoSum(nums, target);
     string out = integerVectorToString(ret);
     cout << out << endl;
-
+    printf("%s", out.c_str());
     return 0;
 }
